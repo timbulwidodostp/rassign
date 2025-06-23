@@ -1,6 +1,8 @@
 # rassign
 Regression-based test for random assignment to peer groups (Jochmans, 2020) Use rassign With STATA 19
 
+https://www.youtube.com/watch?v=xNilPdzSSjE
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
